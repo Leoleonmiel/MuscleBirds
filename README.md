@@ -16,4 +16,8 @@ Get ready for chaotic battles and strategic destruction!
 
 ## 🛠️ Technologies  
 - Unity (C#)  
-- 2D Physics 
+- 2D Physics
+
+- ## 👥 Contributors  
+- [@Hedi BEN HAFSA](https://github.com/Qualqun)  
+- [@Thomas COYNE](https://github.com/Turrok)  
