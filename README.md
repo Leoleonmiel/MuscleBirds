@@ -20,4 +20,5 @@ Get ready for chaotic battles and strategic destruction!
 
 - ## 👥 Contributors  
 - [@Hedi BEN HAFSA](https://github.com/Qualqun)  
-- [@Thomas COYNE](https://github.com/Turrok)  
+- [@Thomas COYNE](https://github.com/Turrok)
+- [@Paul HELDE](https://github.com/Caydos)    
