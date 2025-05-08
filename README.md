@@ -10,7 +10,6 @@ Inspired by *Angry Birds*, **Muscle Bird** takes you into a wacky world of stero
 
 - 🏗️ **Build** a strong base to protect your equipment.  
 - 💥 **Destroy** your opponent’s base.  
-- 🏆 **Steal** their gear to win!  
 
 Get ready for chaotic battles and strategic destruction!
 
